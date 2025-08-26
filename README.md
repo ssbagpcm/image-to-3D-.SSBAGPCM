@@ -49,7 +49,7 @@ so :
 
 click on it and once the tab is opened, choose with your file manager the created file, by clicking on the 'Open .ssbagpcm' button, with the .ssbagpcm extension.
 
-## see the lagic happen ! (if of course, working for you 😢)
+## see the magic happen ! (if of course, working for you 😢)
 have **fun** !
 
 PS : dont avoid to dm me on discord i'd like to hang out about sciences, ai, maths, tech or anything. :)  and yeah, ~~my~~ code is ai generated...
